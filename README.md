@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kamal Chhimwal
-- 👀 I’m interested in development and competetive coding
+- 👀 I’m interested in development and competitive coding
 - 🌱 I’m currently learning c++ and JavaScript
 - 📫 How to reach me, use my email : kamal.gehu2021@gmail.com
